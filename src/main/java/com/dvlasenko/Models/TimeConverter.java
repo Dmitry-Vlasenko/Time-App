@@ -1,4 +1,4 @@
-package com.dvlasenko.utils;
+package com.dvlasenko.Models;
 
 import net.time4j.ClockUnit;
 import net.time4j.Duration;

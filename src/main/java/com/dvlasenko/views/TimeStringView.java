@@ -1,7 +1,7 @@
 package com.dvlasenko.views;
 
 
-import com.dvlasenko.utils.TimeConverter;
+import com.dvlasenko.Models.TimeConverter;
 
 import java.util.Scanner;
 
